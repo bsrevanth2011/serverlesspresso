@@ -1,0 +1,9 @@
+[submodule "app-tier"]
+	path = app-tier
+	url = git@github.com:bsrevanth2011/serverlesspresso-app-tier.git
+[submodule "web-tier"]
+	path = web-tier
+	url = git@github.com:bsrevanth2011/serverlesspresso-web-tier.git
+[submodule "aws-infra"]
+	path = aws-infra
+	url = git@github.com:bsrevanth2011/serverlesspresso-aws-infra.git
